@@ -1,0 +1,17 @@
+project/project/target/
+project/project/
+target/
+classes
+.settings/
+bin
+
+.cache
+.history
+.log
+
+.classpath
+.project
+/lib_managed
+/.idea
+/.idea_modules
+/.worksheet
